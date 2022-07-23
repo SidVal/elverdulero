@@ -1,1 +1,3 @@
-# elverdulero
+# El Verdulero
+
+Sitio web principal para los verduleros digitales
